@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// This is the blackbox function that takes in the number of chickens and outputs the number of eggs (chickents muliplied by 3)
 int numberOfEggs(int number){
   return number*3;
 }
