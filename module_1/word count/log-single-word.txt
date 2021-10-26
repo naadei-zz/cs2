@@ -1,0 +1,15 @@
+-----------------------------------------------------------------------
+
+Please type something then press [ENTER]:
+
+grandmother
+
+
+-----------------------------------------------------------------------
+
+                           [ R E S U L T S ]                           
+
+  - Total Characters: 11 (does not include spaces)
+  - Word with the most vowels: grandmother, it contains 4 vowels! WOW!
+
+-----------------------------------------------------------------------
