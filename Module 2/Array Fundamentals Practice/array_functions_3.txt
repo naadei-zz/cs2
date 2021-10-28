@@ -1,0 +1,33 @@
+FALSE:
+int randomNumbers[arraySize] = {1,2,3,4,5,6,7,8,9,10,13,12,13,14,15,16,17,18,19,20};  // Out of order
+
+
+[Running] cd "/Users/naadeiatafu/Documents/CS2/Code/" && g++ array_functions_3.cpp -o array_functions_3 && "/Users/naadeiatafu/Documents/CS2/Code/"array_functions_3
+
+
+-----------------------------------------------------------------------
+
+Is the array of numbers in order? 0
+
+-----------------------------------------------------------------------
+
+
+[Done] exited with code=0 in 0.629 seconds
+
+
+
+
+TRUE: 
+int randomNumbers[arraySize] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}; // In order
+
+[Running] cd "/Users/naadeiatafu/Documents/CS2/Code/" && g++ array_functions_3.cpp -o array_functions_3 && "/Users/naadeiatafu/Documents/CS2/Code/"array_functions_3
+
+
+-----------------------------------------------------------------------
+
+Is the array of numbers in order? 1
+
+-----------------------------------------------------------------------
+
+
+[Done] exited with code=0 in 0.985 seconds
